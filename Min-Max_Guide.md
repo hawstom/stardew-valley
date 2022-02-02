@@ -283,14 +283,15 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
   - As soon as a tree starts to fall, walk towards where the wood will spawn and immediately pause the game. This prevents in-game time from passing, but the tree falling animation will still complete. Additionally, all of the wood will automatically be collected by the player while the game is still paused. (You should use this strategy whenever you are chopping trees and not bothering to kill the stumps.)
 - Once foraging level 1, craft a chest, place it next to the house, and empty all inventory except for scythe + axe + pickaxe + hoe.
 - Exit south to the forest. (The time should be around 9:20 AM.)
-- Use a screenshot and/or zoom to check the Secret Woods for foragables so that you can plan your route. Head south first toward the Spring Onion area. You should end up coming east from the Traveling Cart area where you will meet Jas.
+- Use a screenshot and/or zoom to check the Cindersap Forest for foragables so that you can plan your route. 
   - Pick up all foragable items along the way.
   - Try to kill as many weeds as possible, but do not go too far out of your way for just 1 weed (since you need to make it to Jas at 11:20 AM).
 - Meet Jas as she walks from her house to her swing around 11:20 AM.
 - Meet Haley as she walks towards Leah's house passing it around 11:40 AM.
 - Go to town.
-- Check the two garbage cans next to Jodi's house + Haley's house and clear weeds between them if you have time.
+- Check the two garbage cans next to Jodi's house + Haley's house and clear the weeds between them if you have time.
   - It is optimal to pause immediately after checking a garbage can. This avoids wasting time on backtracking in the case where the can drops an item and it flies in the opposite direction. (This is similar to the strategy where it is optimal to pause when a tree is falling down.)
+  - Note that in general, checking garbage cans is a huge waste of time, so the route only does this on the first two days.
 - Meet Emily inside of her house as soon she leaves her room at 12:10 PM.
 - Meet Penny sitting under the tree to the west of the graveyard. She leaves for home at 12:30 PM.
 - Meet Marnie walking south from Pierre's General Store. She arrives at Emily's door at about 12:30 PM.
@@ -353,7 +354,9 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Craft a chest and take it with you.
   - If you got 0 to 3 Spring Onions on Spring 1 (and did not get any food from garbage cans), then you may not have had enough energy to chop 50 wood on Spring 1. Chop 50 wood now and continue following the route; note that you will be a little bit behind on everything.
 - Empty all inventory in the chest. Retrieve the hoe + crafted chest + 1 rock.
-- Check the garbage cans next to the George's house + next to the Saloon + next to Lewis' house. (If you are seen, it does not matter, since you friendship with each NPC is essentially still at 0.)
+- Check the garbage cans next to the George's house + next to the Saloon + next to Lewis' house.
+  - If you are seen by a villager, it does not matter, since you friendship with each NPC is still at 0 points.)
+  - This is the last time that you should devitate from your path in any way to check a garbage can, since they are a huge waste of time. From this point on, only check garbage if doing so would waste no additional time.
 - Go to the beach and get the Bamboo Pole.
 - Give the rock to Willy and claim the reward for the "How To Win Friends" quest (100g).
 - Place the chest on the south edge of the pier near the east end.
@@ -948,7 +951,7 @@ This allows you to zoom in and out by using hotkeys. It also allows you to zoom 
 ## Appendix C: Average Gold per Hour for Fishing
 
 - For calculating the opportunity cost of something, it is useful to know how much gold per hour that one can expect while fishing. In Spring, the best spot to fish in sunny weather is the mountain lake and the best spot to fish in rainy weather is the forest river.
-- In general, the chances to catch each fish can be found in [BlaDe's spreadsheet for patch 1.5](https://docs.google.com/spreadsheets/d/1HRc2zsEz-Ar_EFyS28HhNNXwGmq5Ilg9DJq12mZqDYk/edit).
+- In general, the chances to catch each fish can be found in [BlaDe's fishing spreadsheet for patch 1.5](https://docs.google.com/spreadsheets/d/1HRc2zsEz-Ar_EFyS28HhNNXwGmq5Ilg9DJq12mZqDYk/edit).
 - The formula for determining fish catch rate is: `random(600, 30000 - (250 * fishingLevel) - (5000 if Spinner) - (10000 if Dressed Spinner)` (in milliseconds)
 - Thus, the average milliseconds per catch at fishing level 10 without using any tackle is 13450.
 - Using Bait is a 0.5x multiplier, which makes the average 6725.
