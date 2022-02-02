@@ -356,22 +356,27 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Check the garbage cans next to the George's house + next to the Saloon + next to Lewis' house. (If you are seen, it does not matter, since you friendship with each NPC is essentially still at 0.)
 - Go to the beach and get the Bamboo Pole.
 - Give the rock to Willy and claim the reward for the "How To Win Friends" quest (100g).
-- Place the chest on the bottom-right hand corner of the pier.
-- Fish facing east from the pier. Use maximum casts.
-- At 8:40 AM, destroy the Bamboo Pole and check the rest of the beach for any foragable items + artifact spots.
+- Place the chest on the south edge of the pier near the east end.
+- Check the beach for forageables and any artifact spot you may still need to check for the 250g Museum reward.
+  - Retrieve any foragable items + artifact spots.
   - If you get an artifact now and did not get one on Spring 1, then immediately go turn it in and claim the reward (250g).
+- Fish with the Bamboo Pole until 9:00 AM facing west from the west edge of the pier. Use maximum casts.
 - Go to Willy's shop. Sell all beach foragable items + fish. Buy the [Training Rod](https://stardewvalleywiki.com/Training_Rod) from Willy for 25g.
   - The Training Rod will allow more perfect catches. (Leveling up the fishing skill with perfect catches is more important than getting higher-quality fish.)
-- With the Training Rod, use minimum casts. Fish until you have enough fish to sell to get up to 1,800g.
+  - With the Training Rod, use minimum casts. 
   - Minimum casts gives a greater probability to catch easier fish and also saves time on casting/reeling animations.
   - Also see [General Fishing Strategy](#general-fishing-strategy).
+- Fish with the Training Rod anywhere near your chest in any direction until you reach fishing level 2.
+  - If it's too late to buy a Fiberglass Rod (past 4:30 PM), you will be diverging from the route and on your own to some extent due to poor fishing skills. Keep fishing with the Training Rod. Tomorrow come straight to the beach and buy the Fiberglass Rod and bait as soon as you can. Go to the forest river only when you are at fishing level 4. Otherwise, follow the route as much as you can.
+  - If you don't have enough fish to sell to get up to 1,800g, switch to the Bamboo Pole until you do.
+  - When you have enough fish to sell to get up to 1,800g, sell all the fish, and buy the [Fiberglass Rod](https://stardewvalleywiki.com/Fiberglass_Rod) from Willy. Also, buy as much [Bait](https://stardewvalleywiki.com/Bait_(item)) as possible (5g each) and equip it on the new rod. You can now destroy the Training Rod.
+- Fish facing east from the pier. Use maximum casts.
+- Even though we will have less perfect catches, the Fiberglass Rod will allow us to gain experience faster because of the bait.
 - If out of Seaweed (1.54 GPE) and Joja Cola (1.92 GPE), eat the highest quality Anchovy (1.82 GPE) or Herring (1.82 GPE).
-- When you have enough fish to sell to get up to 1800g and are fishing level 2, destroy the Training Rod, sell all the fish, and buy the [Fiberglass Rod](https://stardewvalleywiki.com/Fiberglass_Rod) from Willy. Also, buy as much [Bait](https://stardewvalleywiki.com/Bait_(item)) as possible (5g each) and equip it on the new rod.
-  - Even though we will have less perfect catches, the Fiberglass Rod will allow us to gain experience faster because of the bait.
 - Fish using max casts at the same spot as before.
 - At 4:30 PM, if you do not have at least 35 bait on the rod, go to Willy and buy more. (You need enough bait to last for the rest of the day + tomorrow morning.)
 - Fish until 2 AM. Before passing out, leave all of the fish in the chest. (We will sell them to Willy tomorrow.)
-- At the end of the day, you should get:
+- At the end of the day, you ideally should get:
   - Fishing 0 --> 4
 
 ### Spring 3
