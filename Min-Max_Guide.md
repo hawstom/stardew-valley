@@ -283,7 +283,7 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
   - As soon as a tree starts to fall, walk towards where the wood will spawn and immediately pause the game. This prevents in-game time from passing, but the tree falling animation will still complete. Additionally, all of the wood will automatically be collected by the player while the game is still paused. (You should use this strategy whenever you are chopping trees and not bothering to kill the stumps.)
 - Once foraging level 1, craft a chest, place it next to the house, and empty all inventory except for scythe + axe + pickaxe + hoe.
 - Exit south to the forest. (The time should be around 9:20 AM.)
-- Use a screenshot and/or zoom to check the Secret Woods for foragables so that you can plan your route. Head south first toward the Spring Onion area. You should end up coming east from the Traveling Cart area where you will meet Jas.
+- Use a screenshot and/or zoom to check the Cindersap Forest for foragables so that you can plan your route. 
   - Pick up all foragable items along the way.
   - Try to kill as many weeds as possible, but do not go too far out of your way for just 1 weed (since you need to make it to Jas at 11:20 AM).
 - Meet Jas as she walks from her house to her swing around 11:20 AM.
@@ -946,7 +946,7 @@ This allows you to zoom in and out by using hotkeys. It also allows you to zoom 
 ## Appendix C: Average Gold per Hour for Fishing
 
 - For calculating the opportunity cost of something, it is useful to know how much gold per hour that one can expect while fishing. In Spring, the best spot to fish in sunny weather is the mountain lake and the best spot to fish in rainy weather is the forest river.
-- In general, the chances to catch each fish can be found in [BlaDe's spreadsheet for patch 1.5](https://docs.google.com/spreadsheets/d/1HRc2zsEz-Ar_EFyS28HhNNXwGmq5Ilg9DJq12mZqDYk/edit).
+- In general, the chances to catch each fish can be found in [BlaDe's fishing spreadsheet for patch 1.5](https://docs.google.com/spreadsheets/d/1HRc2zsEz-Ar_EFyS28HhNNXwGmq5Ilg9DJq12mZqDYk/edit).
 - The formula for determining fish catch rate is: `random(600, 30000 - (250 * fishingLevel) - (5000 if Spinner) - (10000 if Dressed Spinner)` (in milliseconds)
 - Thus, the average milliseconds per catch at fishing level 10 without using any tackle is 13450.
 - Using Bait is a 0.5x multiplier, which makes the average 6725.
