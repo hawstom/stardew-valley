@@ -285,20 +285,17 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Exit south to the forest. (The time should be around 9:20 AM.)
 - Use a screenshot and/or zoom to check the Cindersap Forest for foragables so that you can plan your route. 
   - Pick up all foragable items along the way.
-  - Try to kill as many weeds as possible, but do not go too far out of your way for just 1 weed (since you need to make it to Jas at 11:20 AM).
-- Meet Jas as she walks from her house to her swing around 11:20 AM.
-- Meet Haley as she walks towards Leah's house passing it around 11:40 AM.
+  - Try to kill as many weeds as possible, but do not go too far out of your way for just 1 weed (since you need to make it to Marnie by 12:50 PM).
+- Meet Jas as she walks from her house to her jump rope spot between 11:20 AM and 12:00 noon.
+- Meet Haley as she walks west and south towards her photography spot between 11:40 and 12:10. This is a good time to kill extra weeds if you are ahead of schedule.
 - Go to town.
 - Check the two garbage cans next to Jodi's house + Haley's house and clear the weeds between them if you have time.
   - It is optimal to pause immediately after checking a garbage can. This avoids wasting time on backtracking in the case where the can drops an item and it flies in the opposite direction. (This is similar to the strategy where it is optimal to pause when a tree is falling down.)
   - Note that in general, checking garbage cans is a huge waste of time, so the route only does this on the first two days.
-- Meet Emily inside of her house as soon she leaves her room at 12:10 PM.
-- Meet Penny sitting under the tree to the west of the graveyard. She leaves for home at 12:30 PM.
-- Meet Marnie walking south from Pierre's General Store. She arrives at Emily's door at about 12:30 PM.
+- Meet Marnie walking to her ranch from Pierre's General Store. (For reference, she travels past Emily's house at 12:50 PM.)
 - Go to the beach.
-- Leave any beach foraging items on the ground. (We do not have the inventory space right now and we can just collect them on Spring 2.)
-- Meet Elliott standing south of his cabin near the fire ring.
-- Check for + hoe artifact spots.
+- Hoe any artifact spots to try and get your first artifact. However, leave any beach foraging items on the ground. (We do not have the inventory space right now and we can just collect them on Spring 2.)
+- Meet Elliott standing south of his cabin near the fire ring between noon and 1:30 PM.
 - Go to town.
 - If you got an artifact, donate it to the museum and claim the reward (250g).
 - Check the garbage cans next to the museum + blacksmith.
@@ -307,20 +304,22 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
 - Meet Pam + Sam + Shane inside of JojaMart. (Even though Sam & Shane are working, it still counts as meeting them.)
 - Clear the weeds behind/north of JojaMart.
 - Meet Abigail on the bridge.
-- Meet Maru. (She is walking south towards the bridge. She reaches the trailer at 2:50 PM and arrives at the benches at 3:20 PM.)
+- If you see Maru walking south and she is close, talk to her now. Otherwise, meet Maru when she is sitting on the bench later on. (She arrives at the benches at 3:20 PM.)
 - Check the garbage can next to Lewis' house.
 - Meet Evelyn (at the flowers), Caroline + Jodi (at the square), and Vincent + Harvey (above Jodi's house).
 - Kill the weeds along the west side of the map by Harvey.
 - Meet Leah + Pierre inside of Pierre's General Store.
   - You have to go behind the counter to talk to Pierre.
   - You will buy Spring Crops on Spring 5 or 6, so don't buy from Pierre today.
-- Check the garbage can next to the Saloon.
-- Meet Gus in the Saloon. (You have to go behind the counter to talk to him.)
-- Check the garbage can next to George's house.
-- Meet George + Alex inside of their house. (Alex finishes his workout and leaves his room at 4:00 PM. If you are fast, you might need to wait here for a few minutes.)
+- It should now be close to 4:00 PM and we can meet everybody else near the Saloon:
+  - At 4:00 PM, Alex finishes his workout and leaves his room. Check the garbage can next to their house, then enter and meet George and Alex. (If you are fast, you might need to wait for Alex to leave his room.)
+  - At 4:00 PM, Emily arrives at the Saloon. Check the garbage can next to the Saloon, then enter and meet Gus and Emily. (You have to go behind the counter to talk to Gus.)
+  - At 4:20 PM, Penny passes Lewis's fence and Alex leaves his house.
+  - At 4:40 PM, Penny reaches the bench with Maru. You can meet them there if we have not already met them.
 - Go back to the farm. (Leave all of the foragable items at the Bus Stop on the ground for now.)
 - Empty your inventory. Keep the tools.
-- Clear weeds (and chop trees if you are short of 50 wood) along the path to the Backwoods. Exit to the Backwoods around 6:10 PM.
+- Clear weeds on the farm until around 6:00 PM.
+- Exit to the Backwoods around 6:10 PM.
 - Meet Linus outside of his tent.
 - Meet Demetrius south and to the east of his house. (You do not need to talk to Robin because you already met her.)
 - Meet Sebastian as he leaves his house. (If you got here before 7:00 PM, then you will have to idle until he comes out of his room at 6:40 PM. This is wasted time that you could have used to kill more weeds before leaving your farm.)
@@ -332,11 +331,15 @@ Another alternative is to exploit RNG to farm clay, but this is illegal in our r
   - By planting additional crops beyond the 15 initial Parsnip Seeds, crows have a chance to eat one or more crops every day. However, the extra value from planting the Mixed Seeds makes this worth it. (Having random Cauliflower and Potato from Mixed Seeds allows you to skip buying them for the Spring Crops bundle later on.)
 - Eat all Spring Onions. (They are near-worthless to sell.)
 - Chop wood until around 4-6 energy left.
-- Kill weeds + grass until around 1:30 AM (assuming you have only a couple more Mixed Seeds).
-- Ship all but 20 fiber, all sap, all clay + all pinecones + extra spring foraging items + any food from the garbage cans (except for [Field Snack](https://stardewvalleywiki.com/Field_Snack)).
-  - In other words, keep stone + wood + coal + 20 fiber + 1 of each spring foragable.
-    - If you are not lucky enough with getting money/foragables so far, it is probably better to not keep 1 of each spring foragable. Ship them so that you can buy the Iridium Rod faster on Spring 2, and worry about the Community Center quest later on.
-  - Normally, we would save Leeks, Dandelions, and food from the garbage cans to eat, since they have a low GPE. However, we need as much money as possible for Spring 2, so we need to sell them today as an exception to the rule.
+- Kill weeds + grass until around 1:00 AM to 1:30 AM, depending on how many Mixed Seeds you have. (You want to hoe and plant and water all of the Mixed Seeds before 2 AM and passing out.)
+- Head back to your house and ship everything except:
+  - Stone
+  - Wood
+  - Coal
+  - 20 Fiber
+- Note that:
+  - You should sell all foraging items (except for Spring Onions). Worry about the Community Center quest later on, because we need as much money as possible for tomororw.
+  - Normally, we eat Leeks, Dandelions, and food from the garbage cans instead of selling them, since they have a low GPE. However, today as an exception to the rule, since we need money very badly.
 - Hoe + plant + water any remaining Mixed Seeds.
   - Note that you can work past 0 energy and become exhausted with no penalty carrying over to Spring 2 (because you will level up foraging).
   - If one of the mixed seeds is not a Cauliflower (check with a mod or the wiki) you'll need to delay handing in the initial bundles and shipping any additional gold for the vault originally scheduled for Spring 15 until Spring 17.
@@ -953,214 +956,9 @@ This allows you to zoom in and out by using hotkeys. It also allows you to zoom 
 - For calculating the opportunity cost of something, it is useful to know how much gold per hour that one can expect while fishing.
 - The values for various fishing spots are located in my [fishing spreadsheet](https://docs.google.com/spreadsheets/d/1Zv0VCgFyJRlh1kVyvogYZviaqCexrDYhp7GNEQxozBM/edit).
 - Most importantly, in Spring:
-  - The best spot to fish in sunny weather is the mountain lake, at X average gold per hour.
-  - The best spot to fish in rainy weather is the forest river, at X average gold per hour.
- 
-### Mountain Lake
-
-#### 6 AM to 7 PM (13 hours)
-
-| Fish                                                                | Chance  | Price (Iridium Quality + Angler) | Adjusted Gold
-| ------------------------------------------------------------------- | ------- | -------------------------------- | -------------
-| [Largemouth Bass](https://stardewcommunitywiki.com/Largemouth_Bass) | 20.13%  | 300g                             | 60.39g
-| [Carp](https://stardewcommunitywiki.com/Carp)                       | 22.25%  | 90g                              | 20.03g
-| [Green Algae](https://stardewvalleywiki.com/Green_Algae)            | 16.17%  | 0g (assuming eating)             | 0g
-| [Bullhead](https://stardewcommunitywiki.com/Bullhead)               | 18.10%  | 225g                             | 40.73g
-| [Chub](https://stardewcommunitywiki.com/Chub)                       | 22.25%  | 150g                             | 33.38g
-| Random Trash                                                        | 1.10%   | 0g (assuming deleting)           | 0g
-| *Total*                                                             | 100.00% | n/a                              | 154.53g
-
-- Average gold per hour: **751.02g**
-- Average gold per hour accounting for buying Bait: **726.72g**
-
-#### 7 PM to 2 AM (7 hours)
-
-| Fish                                                                | Chance  | Price (Iridium Quality + Angler) | Adjusted Gold
-| ------------------------------------------------------------------- | ------- | -------------------------------- | -------------
-| [Carp](https://stardewcommunitywiki.com/Carp)                       | 27.59%  | 90g                              | 24.83g
-| [Green Algae](https://stardewvalleywiki.com/Green_Algae)            | 19.80%  | 0g (assuming eating)             | 0g
-| [Bullhead](https://stardewcommunitywiki.com/Bullhead)               | 22.26%  | 225g                             | 50.09g
-| [Chub](https://stardewcommunitywiki.com/Chub)                       | 27.59%  | 150g                             | 41.39g
-| Random Trash                                                        | 2.76%   | 0g (assuming deleting)           | 0g
-| *Total*                                                             | 100.00% | n/a                              | 116.31g
-
-- Average gold per hour: **565.27g**
-- Average gold per hour accounting for buying Bait: **540.97g**
-
-#### Mountain Lake Combined
-
-- For evaluation purposes, it is more useful to use the specific value from the time frame that you need.
-- If for some reason you need a weighted average:
-
-| Time Frame   | Average Gold per Hour | Hours | Percentage of the Day | Weighted Gold per Hour
-| ------------ | --------------------- | ----- | --------------------- | ----------------------
-| 6 AM to 7 PM | 726.72g               | 13    | 65%                   | 472.37g
-| 7 PM to 2 PM | 540.97g               | 7     | 35%                   | 189.34g
-| *Total*      | n/a                   | 20    | 100%                  | 661.71g
-
-### Forest River (While Raining)
-
-#### 6 AM to 9 AM (3 hours)
-
-| Fish                                                     | Chance  | Price (Iridium Quality + Angler) | Adjusted Gold
-| -------------------------------------------------------- | ------- | -------------------------------- | -------------
-| [Catfish](https://stardewvalleywiki.com/Catfish)         | 32.00%  | 450g (assuming Gold Quality)     | 144.00g
-| [Green Algae](https://stardewvalleywiki.com/Green_Algae) | 25.25%  | 0g (assuming eating)             | 0g
-| [Chub](https://stardewcommunitywiki.com/Chub)            | 35.75%  | 150g                             | 50.63g
-| Random Trash                                             | 7.00%   | 0g (assuming deleting)           | 0g
-| *Total*                                                  | 100.00% | n/a                              | 194.63g
-
-- Average gold per hour: **903.08g**
-- Average gold per hour accounting for buying Bait: **879.88g**
-
-#### 9 AM to 6 PM (9 hours)
-
-| Fish                                                     | Chance  | Price (Iridium Quality + Angler) | Adjusted Gold
-| -------------------------------------------------------- | ------- | -------------------------------- | -------------
-| [Catfish](https://stardewvalleywiki.com/Catfish)         | 25.47%  | 450g (assuming Gold Quality)     | 114.62g
-| [Green Algae](https://stardewvalleywiki.com/Green_Algae) | 20.28%  | 0g (assuming eating)             | 0g
-| [Shad](https://stardewvalleywiki.com/Shad)               | 22.80%  | 180g                             | 41.04g
-| [Chub](https://stardewcommunitywiki.com/Chub)            | 28.30%  | 150g                             | 42.45g
-| Random Trash                                             | 3.15%   | 0g (assuming deleting)           | 0g
-| *Total*                                                  | 100.00% | n/a                              | 198.11g
-
-- Average gold per hour: **919.23g**
-- Average gold per hour accounting for buying Bait: **896.03g**
-
-#### 6 PM to 12 AM (6 hours)
-
-| Fish                                                     | Chance  | Price (Iridium Quality + Angler) | Adjusted Gold
-| -------------------------------------------------------- | ------- | -------------------------------- | -------------
-| [Catfish](https://stardewvalleywiki.com/Catfish)         | 20.13%  | 450g (assuming Gold Quality)     | 90.59g
-| [Bream](https://stardewvalleywiki.com/Bream)             | 22.25%  | 135g                             | 30.04g
-| [Green Algae](https://stardewvalleywiki.com/Green_Algae) | 16.17%  | 0g (assuming eating)             | 0g
-| [Shad](https://stardewvalleywiki.com/Shad)               | 18.10%  | 180g                             | 32.58g
-| [Chub](https://stardewcommunitywiki.com/Chub)            | 22.25%  | 150g                             | 33.38g
-| Random Trash                                             | 1.10%   | 0g (assuming deleting)           | 0g
-| *Total*                                                  | 100.00% | n/a                              | 186.59g
-
-- Average gold per hour: **865.78g**
-- Average gold per hour accounting for buying Bait: **842.58g**
-
-#### 12 AM to 2 AM (2 hours)
-
-| Fish                                                     | Chance  | Price (Iridium Quality + Angler) | Adjusted Gold
-| -------------------------------------------------------- | ------- | -------------------------------- | -------------
-| [Bream](https://stardewvalleywiki.com/Bream)             | 27.59%  | 135g                             | 37.25g
-| [Green Algae](https://stardewvalleywiki.com/Green_Algae) | 19.80%  | 0g (assuming eating)             | 0g
-| [Shad](https://stardewvalleywiki.com/Shad)               | 22.26%  | 180g                             | 40.07g
-| [Chub](https://stardewcommunitywiki.com/Chub)            | 27.59%  | 150g                             | 41.39g
-| Random Trash                                             | 2.76%   | 0g (assuming deleting)           | 0g
-| *Total*                                                  | 100.00% | n/a                              | 118.71g
-
-- Average gold per hour: **550.81g**
-- Average gold per hour accounting for buying Bait: **527.61g**
-
-#### Forest River Combined
-
-- For evaluation purposes, it is more useful to use the specific value from the time frame that you need.
-- If for some reason you need a weighted average:
-
-| Time Frame    | Average Gold per Hour | Hours | Percentage of the Day | Weighted Gold per Hour
-| ------------- | --------------------- | ----- | --------------------- | ----------------------
-| 6 AM to 9 AM  | 879.88g               | 3     | 15%                   | 131.98g
-| 9 AM to 6 PM  | 896.03g               | 9     | 45%                   | 403.21g
-| 6 PM to 12 AM | 842.58g               | 6     | 30%                   | 252.77g
-| 12 AM to 2 AM | 527.61g               | 2     | 10%                   | 52.76g
-| *Total*       | n/a                   | 20    | 100%                  | 840.72g
-
-### Comparison
-
-The ratio between sunny lake and rainy river is 1 to 1.27.
-
-### Ocean
-
-#### 6 AM to 11 AM (5 hours)
-
-| Fish                                                     | Chance  | Price (Iridium Quality + Angler) | Adjusted Gold
-| -------------------------------------------------------- | ------- | -------------------------------- | -------------
-| [Anchovy](https://stardewvalleywiki.com/Anchovy)         | 12.45%  | 90g                              | 11.21g
-| [Sardine](https://stardewvalleywiki.com/Sardine)         | 27.19%  | 120g                             | 32.63g
-| [Herring](https://stardewvalleywiki.com/Herring)         | 19.15%  | 90g                              | 17.24g
-| [Seaweed](https://stardewvalleywiki.com/Seaweed)         | 14.03%  | 0g (assuming eating)             | 0g
-| [Halibut](https://stardewvalleywiki.com/Halibut)         | 17.38%  | 240g                             | 41.71g
-| [Flounder](https://stardewvalleywiki.com/Flounder)       | 9.42%   | 300g                             | 28.26g
-| Random Trash                                             | 0.38%   | 0g (assuming deleting)           | 0g
-| *Total*                                                  | 100.00% | n/a                              | 131.05g
-
-- Average gold per hour: **636.90g**
-- Average gold per hour accounting for buying Bait: **612.60g**
-
-#### 11 AM to 7 PM (8 hours)
-
-| Fish                                                     | Chance  | Price (Iridium Quality + Angler) | Adjusted Gold
-| -------------------------------------------------------- | ------- | -------------------------------- | -------------
-| [Anchovy](https://stardewvalleywiki.com/Anchovy)         | 14.80%  | 90g                              | 13.32g
-| [Sardine](https://stardewvalleywiki.com/Sardine)         | 33.36%  | 120g                             | 40.03g
-| [Herring](https://stardewvalleywiki.com/Herring)         | 23.04%  | 90g                              | 20.74g
-| [Seaweed](https://stardewvalleywiki.com/Seaweed)         | 16.73%  | 0g (assuming eating)             | 0g
-| [Flounder](https://stardewvalleywiki.com/Flounder)       | 11.15%  | 300g                             | 33.45g
-| Random Trash                                             | 0.94%   | 0g (assuming deleting)           | 0g
-| *Total*                                                  | 100.00% | n/a                              | 107.54g
-
-- Average gold per hour: **522.64g**
-- Average gold per hour accounting for buying Bait: **498.34g**
-
-#### 7 PM to 8 PM (1 hour)
-
-| Fish                                                     | Chance  | Price (Iridium Quality + Angler) | Adjusted Gold
-| -------------------------------------------------------- | ------- | -------------------------------- | -------------
-| [Anchovy](https://stardewvalleywiki.com/Anchovy)         | 16.59%  | 90g                              | 14.93g
-| [Herring](https://stardewvalleywiki.com/Herring)         | 26.13%  | 90g                              | 23.52g
-| [Seaweed](https://stardewvalleywiki.com/Seaweed)         | 18.79%  | 0g (assuming eating)             | 0g
-| [Halibut](https://stardewvalleywiki.com/Halibut)         | 23.55%  | 240g                             | 56.52g
-| [Flounder](https://stardewvalleywiki.com/Flounder)       | 12.44%  | 300g                             | 37.32g
-| Random Trash                                             | 2.5%    | 0g (assuming deleting)           | 0g
-| *Total*                                                  | 100.00% | n/a                              | 132.29g
-
-- Average gold per hour: **642.93g**
-- Average gold per hour accounting for buying Bait: **618.63g**
-
-#### 8 PM to 2 AM (6 hours)
-
-| Fish                                                     | Chance  | Price (Iridium Quality + Angler) | Adjusted Gold
-| -------------------------------------------------------- | ------- | -------------------------------- | -------------
-| [Anchovy](https://stardewvalleywiki.com/Anchovy)         | 18.66%  | 90g                              | 16.79g
-| [Herring](https://stardewvalleywiki.com/Herring)         | 29.66%  | 90g                              | 26.69g
-| [Seaweed](https://stardewvalleywiki.com/Seaweed)         | 21.18%  | 0g (assuming eating)             | 0g
-| [Halibut](https://stardewvalleywiki.com/Halibut)         | 26.66%  | 240g                             | 63.98g
-| Random Trash                                             | 2.5%    | 0g (assuming deleting)           | 0g
-| *Total*                                                  | 100.00% | n/a                              | 107.46g
-
-- Average gold per hour: **522.26g**
-- Average gold per hour accounting for buying Bait: **497.96g**
-
-#### Ocean Combined
-
-- For evaluation purposes, it is more useful to use the specific value from the time frame that you need.
-- If for some reason you need a weighted average:
-
-| Time Frame    | Average Gold per Hour | Hours | Percentage of the Day | Weighted Gold per Hour
-| ------------- | --------------------- | ----- | --------------------- | ----------------------
-| 6 AM to 11 AM | 612.60g               | 5     | 25%                   | 153.15g
-| 11 AM to 7 PM | 498.34g               | 8     | 40%                   | 199.34g
-| 7 PM to 8 PM  | 618.63g               | 1     | 5%                    | 30.93g
-| 8 PM to 2 AM  | 497.96g               | 6     | 30%                   | 149.39g
-| *Total*       | n/a                   | 20    | 100%                  | 532.81g
-
-### Caveats
-
-#### Fishing Chests
-
-- The above analysis assumes that you are catching all Iridium-quality fish. However, when a treasure chest appears, you will prioritize the chest and will not get Iridium-quality.
-- However, this is counteracted by the value of the contents of the chest. On average, the value of the chest contents will be more than the marginal gold from the quality decrease on the fish.
-- Thus, we should account for a bonus, C, to account for the value of items received from fishing chests.
-
-#### Eating
-
-- Typically, just eating the Green Algae & Joja Cola will not be sufficient to keep yourself at a neutral energy. When fishing for an extended period of time, you will occasionally need to eat an Iridium-quality Chub.
-- Thus, we should account for a penalty, E, to account for the value lost from eating Chubs.
-- Note that C is greater than E.
+  - The best spot to fish in sunny weather is the mountain lake, which results in 661.79 average gold per hour.
+  - The best spot to fish in rainy weather is the forest river, which results in 842.94 average gold per hour.
+- The ratio between sunny lake and rainy river is 1 to 1.27.
 
 <br />
 
